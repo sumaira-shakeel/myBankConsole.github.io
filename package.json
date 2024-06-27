@@ -1,0 +1,20 @@
+{
+  "name": "5sw8_mybankconsoleapp",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sumairashakeel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
